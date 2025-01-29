@@ -26,10 +26,8 @@ Olist-Analysis/
 ├── README.md              # Overview of the project
 ├── data/                  # Raw and processed datasets
 │   ├── raw/               # Original datasets
-│   ├── processed/         # Cleaned and transformed datasets
 ├── dashboards/            # Power BI (.pbix) file and dashboard images
 ├── scripts/               # Python/SQL scripts for data processing
-├── insights/              # Reports and findings from analysis
 ```
 
 ## How to Use
