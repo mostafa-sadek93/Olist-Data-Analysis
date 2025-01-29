@@ -1,5 +1,4 @@
 # Olist-Data-Analysis
-# Olist E-Commerce Analysis
 
 ## Overview
 This repository contains an exploratory data analysis and visualization of the Olist e-commerce dataset using Power BI. The dataset includes transactional data from Brazilian e-commerce operations, providing insights into customer behavior, sales performance, and logistics.
